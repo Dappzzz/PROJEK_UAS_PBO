@@ -1,4 +1,4 @@
-# 👟 ZXYAN Footwear - E-Commerce Application (UAS PBO)
+# ZXYAN Footwear - E-Commerce Application (UAS PBO)
 
 Aplikasi *e-commerce* premium berbasis web untuk toko sepatu, dikembangkan menggunakan arsitektur **MVC (Model-View-Controller)** dan menerapkan prinsip **OOP (Object-Oriented Programming)** secara komprehensif menggunakan PHP Native. 
 
@@ -6,7 +6,7 @@ Proyek ini dibangun untuk memenuhi Tugas Ujian Akhir Semester (UAS) mata kuliah 
 
 ---
 
-## 🚀 Fitur Utama (CRUD & Fungsionalitas)
+## Fitur Utama (CRUD & Fungsionalitas)
 
 **1. Sisi Pengguna (Customer):**
 *   **Katalog Interaktif:** Menampilkan produk sepatu dengan sistem **Pagination** (8 item per halaman).
@@ -22,7 +22,7 @@ Proyek ini dibangun untuk memenuhi Tugas Ujian Akhir Semester (UAS) mata kuliah 
 
 ---
 
-## 🧩 Implementasi Konsep PBO (OOP)
+## Implementasi Konsep PBO (OOP)
 
 Aplikasi ini menerapkan standar industri dengan mengimplementasikan konsep-konsep inti PBO:
 
@@ -37,7 +37,7 @@ Aplikasi ini menerapkan standar industri dengan mengimplementasikan konsep-konse
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 *   **Bahasa Pemrograman:** PHP (Native / Vanilla OOP)
 *   **Database:** MySQL (MariaDB)
@@ -47,20 +47,21 @@ Aplikasi ini menerapkan standar industri dengan mengimplementasikan konsep-konse
 
 ---
 
-## ⚙️ Panduan Instalasi & Menjalankan Aplikasi
+## Panduan Instalasi & Menjalankan Aplikasi
 1. **Clone Repository:**
 ```bash
    git clone [https://github.com/Dappzzzz/PROJEK_UAS_PBO.git](https://github.com/Dappzzzz/PROJEK_UAS_PBO.git)
 
-2. **Setup Direktori:** Pindahkan folder proyek ke dalam direktori *server* lokal Anda (contoh: `C:\laragon\www\` atau `C:\xampp\htdocs\`).
+**2. Setup Direktori:**
+Pindahkan folder proyek ke dalam direktori *server* lokal Anda (contoh: `C:\laragon\www\` atau `C:\xampp\htdocs\`).
 
-3. **Setup Database:**
-   - Buka phpMyAdmin / HeidiSQL.
-   - Buat *database* baru dengan nama **`db_tokosepatu`**.
-   - Lakukan *Import* pada file **`db_tokosepatu.sql`** yang sudah disertakan di dalam *root* folder proyek ini.
+**3. Setup Database:**
+- Buka phpMyAdmin / HeidiSQL.
+- Buat *database* baru dengan nama **`db_tokosepatu`**.
+- Lakukan *Import* pada file **`db_tokosepatu.sql`** yang sudah disertakan di dalam *root* folder proyek ini.
 
-4. **Jalankan Aplikasi:**
-   - Buka *browser* dan akses: `http://localhost/PROJEK_UAS_PBO` (sesuaikan dengan nama folder Anda).
+**4. Jalankan Aplikasi:**
+- Buka *browser* dan akses: `http://localhost/PROJEK_UAS_PBO` (sesuaikan dengan nama folder Anda).
 
 ---
 
@@ -78,4 +79,5 @@ Aplikasi ini menerapkan standar industri dengan mengimplementasikan konsep-konse
 
 ## 👨‍💻 Author
 
-**Risyad Maulana Daffa_24081010057 ** *Pemrograman Berorientasi Objek*
+**Risyad Maulana Daffa_24081010057**  
+* Pemrograman Berorientasi Objek*
